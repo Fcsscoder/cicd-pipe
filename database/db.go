@@ -36,4 +36,3 @@ func ConectaComBancoDeDados() {
 	_ = DB.AutoMigrate(&models.Aluno{})
 }
 
-func oiii(){}
